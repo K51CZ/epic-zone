@@ -5,17 +5,17 @@
 	padding: 0px;
 }
 .headings h1.head1{
-	color: red;
-	font-size:100px;
+	color: blue;
+	font-size:150px;
 	text-align: center;
   font-family: Playwrite GB J Guides, cursive;
   font-weight: 400;
   font-style: normal;
 }
 .headings h1.head2{
-	color : green;
-	font-size:100px;
-	text-align: center;
+	color : Maroon;
+	font-size:80px;
+	text-align: left;
   font-family: Playwrite GB J Guides cursive;
   font-weight: 400;
   font-style: normal;
